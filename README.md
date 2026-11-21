@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/niaandrees">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&width=460&height=70&lines=vazoconawa;%E2%9C%A8+vazoconawa;%F0%9F%92%A1+creando+ideas...;%F0%9F%A7%AA+xhanniZer0...;vazoconawa" alt="vazoconawa" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&width=460&height=70&lines=vazoconawa;%E2%9C%A8+vazoconawa;%F0%9F%92%A1+creando+ideas...;%F0%9F%A7%AA+xhanniZER0...;vazoconawa" alt="vazoconawa" />
   </a>
 </h1>
 
@@ -15,9 +15,17 @@
 ¡Hola! Soy **vazoconawa**. Me apasiona el proceso creativo del software: **mi mente siempre está generando nuevas ideas y conceptos, y disfruto llevarlos a la realidad**, desde la estructura y el diseño visual hasta su desarrollo funcional.
 
 * 🚀 **Xhanni Studios** — Co-Fundador & Co-Desarrollador.
-* 💠 **Allmighty** — Colaborador, conceptualización de ideas y diseño de utilidades.
-* 🧪 **xhanniZer0** — *Experimental / Próximamente*.
 * 🧠 Enfocado en prototipar, resolver problemas y crear proyectos con propósito.
+
+---
+
+### 🚀 Proyectos
+
+| Proyecto | Qué es |
+| :--- | :--- |
+| **Allmighty** | Bot de Discord con panel web: moderación, tickets, protección anti-raid, niveles, alertas y más, con planes y pagos en línea. |
+| **Xhanni Studios** | Estudio de desarrollo: bots a medida, sitios web, apps, ciberseguridad e infraestructura. |
+| **xhanniZER0-app** | *experimental/proximamente.* |
 
 ---
 
